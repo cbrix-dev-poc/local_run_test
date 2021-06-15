@@ -1,1 +1,1 @@
-# local_run_test no 6
+# local_run_test no 4
