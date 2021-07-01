@@ -1,2 +1,2 @@
 # local_run_test no 8
-2
+23
